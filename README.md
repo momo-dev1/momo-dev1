@@ -10,7 +10,7 @@ I'm a passionate self-taught Software Developer. I'm interested in web technolog
   
 <p>Ask me about anything</p>
 
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:didy1234567@gmail.com)](mailto:didy1234567@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:didy1234567@gmail.com)](mailto:didy@gmail.com)
 <hr>
 <h3>
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
