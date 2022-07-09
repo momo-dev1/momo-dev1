@@ -26,12 +26,3 @@ Technologies I use.
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
 <hr>
-
-<h3>
-
-GitHub Stats
-</h3>
-<a href="https://github.com/ibrahimgediktr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgediktr&layout=compact&theme=dark&show_icons=true" width="450">
-</a>
-
