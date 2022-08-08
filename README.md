@@ -1,28 +1,81 @@
 <h1>
-Hello Everyone
+Hi there
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
 </h1>
-  
-<p>
-I'm a passionate self-taught Software Developer. I'm interested in web technologies. I tend to make use of modern web technologies to build websites that look awesome.
-  I'm currently living in Eg.
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+
+- 🏃‍♂️ I am a passionate self-taught Front-End Developer, I'm interested in web technologies
+
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js
+
+- 🍀 Ask me about anything, I will be happy to help
+
+- 💬 Favourite Quotes: 
+
+  > “Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+
+  > "Code is like humor. When you have to explain it, it’s bad"  - Cory House
+
+<br>
+<br>
+
+<p  align="center" >
+  <a href="https://github.com/momo-dev1">
+    <img src="https://github-readme-stats.vercel.app/api?username=momo-dev1&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
+  </a>
 </p>
-  
-<p>Ask me about anything</p>
 
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:didy1234567@gmail.com)](mailto:didy@gmail.com)
-<hr>
-<h3>
-Technologies I use.
-</h3>
+<br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+# Preferred Languages.
 
-<hr>
+<div>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+<br>
+
+# Preferred Frameworks.
+
+<div>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+</div>
+
+<br>
+
+# Used Technologies/Tools
+
+<div>
+ <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
+ <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
+ <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
+</div>
+
+<br>
+
+# Databases
+
+<div>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<br>
+
+# Hosting
+
+<div>
+<img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+</div>
