@@ -17,10 +17,11 @@
 <br>
 <br>
 
-<p  align="center" >
-  <a href="https://github.com/momo-dev1">
-    <img src="https://github-readme-stats.vercel.app/api?username=momo-dev1&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
-  </a>
+### 📚 Github Status
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=momo-dev1&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=momo-dev1&show_icons=true&theme=tokyonight" height="165">
 </p>
 
 <br>
