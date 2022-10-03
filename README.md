@@ -24,9 +24,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=momo-dev1&theme=tokyonight" height="165">
 </p>
 
-<br>
 
-# Preferred Languages.
+# Programming Languages
 
 <div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -34,13 +33,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<br>
-
-# Preferred Frameworks.
+# Used Frameworks
 
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
@@ -48,7 +44,6 @@
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
 </div>
 
-<br>
 
 # Used Technologies/Tools
 
@@ -63,10 +58,8 @@
  <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
  <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
  <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
 </div>
 
-<br>
 
 # Databases
 
@@ -74,7 +67,6 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<br>
 
 # Hosting
 
