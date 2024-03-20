@@ -20,8 +20,8 @@
 ### 📚 Github Status
 
 <p>
-  <img  src="https://github.r2v.ch/codewars?user=MohamedLk&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" height="190"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=momo-dev1&theme=tokyonight" height="190"/>
+  <img  src="https://github.r2v.ch/codewars?user=MohamedLk&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" height="150"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=momo-dev1&theme=tokyonight" height="150"/>
 </p>
 
 
