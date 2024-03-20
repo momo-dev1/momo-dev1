@@ -19,9 +19,8 @@
 
 ### 📚 Github Status
 
+![Codewars](https://github.r2v.ch/codewars?user=MohamedLk&stroke=%23BB432C)
 <p>
- 
-  <img src="(https://github.r2v.ch/codewars?user=MohamedLk&stroke=%23BB432C" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=momo-dev1&theme=tokyonight" height="165">
 </p>
 
