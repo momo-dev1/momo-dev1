@@ -1,74 +1,146 @@
-### Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
+<div align="center">
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+# 👋 Welcome to My Digital Space
 
-- 🏃‍♂️ I am a passionate self-taught Front-End Developer, I'm interested in web technologies
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;ERPNext+Specialist;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
-- 🍀 Ask me about anything, I will be happy to help
+</div>
 
-- 💬 Favourite Quotes: 
+---
 
-  > “Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-  > "Code is like humor. When you have to explain it, it’s bad"  - Cory House
+### 🚀 About Me
+```javascript
+const mohamed = {
+    location: "Egypt 🇪🇬",
+    role: "Full-Stack Developer",
+    specialization: ["ERPNext/Frappe", "React.js", "ERP Solutions"],
+    currentFocus: "Building scalable web applications",
+    askMeAbout: ["Web Dev", "ERP Systems", "Docker", "Database Design"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-<br>
-<br>
+<br clear="right"/>
 
-### 📚 Github Status
+---
 
+<div align="center">
+
+## 💭 Words I Code By
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+> *"Programming isn't about what you know;*  
+> *it's about what you can figure out."*
+> 
+> **— Chris Pine**
+
+</td>
+<td align="center" width="50%">
+
+> *"Code is like humor.*  
+> *When you have to explain it, it's bad."*
+> 
+> **— Cory House**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=momo-dev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo-dev1&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=momo-dev1&theme=tokyonight&border_radius=10&card_width=800" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=momo-dev1&theme=tokyo-night&hide_border=true&area=true" width="800"/>
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Languages
 <p>
-  <img  src="https://github.r2v.ch/codewars?user=MohamedLk&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=momo-dev1&theme=tokyonight&border_radius=6" height="160" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
 </p>
 
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass&theme=dark" />
+</p>
 
-# Programming Languages
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,firebase&theme=dark" />
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+### 🔧 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vim,linux&theme=dark" />
+</p>
+
+### ☁️ Hosting & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,heroku,netlify&theme=dark" />
+</p>
+
+### 🧪 Testing & Others
+<p>
+<img src="https://skillicons.dev/icons?i=jest,webpack,vite,npm&theme=dark" />
+</p>
+
 </div>
 
-# Used Frameworks
+---
 
-<div>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+<div align="center">
+
+## 🏆 Achievements & Stats
+
+<img src="https://github-profile-trophy.vercel.app/?username=momo-dev1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+### 📈 Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momo-dev1&theme=tokyonight" width="800"/>
+
 </div>
 
+---
 
-# Used Technologies/Tools
+<div align="center">
 
-<div>
- <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?logo=strapi&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
- <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
- <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+## 🌟 Featured Projects
+
+<a href="https://github.com/momo-dev1/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momo-dev1&repo=project1&theme=tokyonight&border_radius=10" />
+</a>
+<a href="https://github.com/momo-dev1/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momo-dev1&repo=project2&theme=tokyonight&border_radius=10" />
+</a>
+
 </div>
 
+---
 
-# Databases
-
-<div>
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+<div align="center">
 
 
-# Hosting
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
-<div>
-<img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-</div>
+**✨ Thanks for visiting! Happy Coding! ✨**
